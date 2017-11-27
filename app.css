@@ -1,0 +1,36 @@
+header {
+text-align:center;
+background: url("images/stars.jpg");
+background-size:cover;
+
+color:white;
+}
+body {
+
+    background-color:rgba(172,252 ,217 );
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+img{
+    color:white;
+    border:10px solid;
+}
+p{
+    font-family: 'Courgette', cursive;
+    color:white;
+}
+h1{
+    font-family: 'Courgette', cursive;
+}
+h2{
+    font-family: 'Courgette', cursive;
+}
+ul{
+    padding:10px 0px 0px 0px;
+}
+li{
+    display:inline;
+    padding:0px 10px 0px 10px;
+}
